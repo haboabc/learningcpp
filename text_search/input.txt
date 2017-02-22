@@ -1,0 +1,2 @@
+This is a test for text_search program.
+And it is a simple program.
